@@ -10,7 +10,7 @@
 
 ---
 
-### 💻 Teck stack
+### 💻 Tech stack
 
 <img align="left" alt="Git" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Bash" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
