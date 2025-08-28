@@ -23,10 +23,9 @@
 <img align="left" alt="C#" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Java" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="MySQL" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Verilog" width="32px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374163/verilog.svg" />
 <br />
 
 ---
 
 ![Alessandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessandroBoglioli&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroBoglioli&layout=compact&theme=radical)
