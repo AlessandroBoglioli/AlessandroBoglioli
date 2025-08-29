@@ -1,6 +1,6 @@
 # Hi, I'm Alessandro 👋
 
-<h4 align="left"> 👨‍💻 Computing systems engineer student @ PoliMI</h4>
+<h4 align="left"> 👨‍💻 Computing Systems Engineering Student @ PoliMI</h4>
 
 [![Univeristy Account](https://img.shields.io/badge/GitHub-University%20Account-black?style=for-the-badge&logo=github)](https://github.com/Alessandro-Boglioli)
 
