@@ -2,9 +2,6 @@
 
 <h4 align="left"> 👨‍💻 MSc student in Computer Science and Engineering @ PoliMI</h4>
 
-[![Univeristy Account](https://img.shields.io/badge/GitHub-University%20Account-black?style=for-the-badge&logo=github)](https://github.com/Alessandro-Boglioli)
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alessandro-boglioli-70b10132b)
 [![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:alessandroboglioli@gmail.com)
 
